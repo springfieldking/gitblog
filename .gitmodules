@@ -1,0 +1,9 @@
+[submodule "content"]
+	path = content
+	url = https://github.com/springfieldking/content.git
+[submodule "public"]
+	path = public
+	url = https://github.com/springfieldking/springfieldking.github.io.git
+[submodule "themes/even"]
+	path = themes/even
+	url = https://github.com/olOwOlo/hugo-theme-even
